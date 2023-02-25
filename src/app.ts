@@ -9,3 +9,7 @@ while (isRunning) {
 
 }
 let isCount:boolean = true
+while(isCount){
+	const userSecondNumber: number || null = +prompt("Enter your second number")
+	
+}
