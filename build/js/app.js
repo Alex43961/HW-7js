@@ -9,3 +9,4 @@ while (isRunning) {
         isRunning = false;
     }
 }
+let isCount = true;

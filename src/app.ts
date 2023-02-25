@@ -8,3 +8,4 @@ while (isRunning) {
 	}
 
 }
+let isCount:boolean = true
